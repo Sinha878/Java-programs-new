@@ -1,4 +1,4 @@
-//Program for finding the simple interest 
+//Program for swapping two numbers
 package scann;
 public class UserInput {
 
